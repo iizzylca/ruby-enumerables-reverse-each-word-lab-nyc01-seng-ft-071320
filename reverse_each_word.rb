@@ -1,6 +1,6 @@
 require 'pry'
 
 def reverse_each_word(string)
-  pry
+  binding.pry
   string.split(//)
 end
