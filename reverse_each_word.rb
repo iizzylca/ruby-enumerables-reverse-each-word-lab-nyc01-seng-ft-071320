@@ -1,10 +1,9 @@
 require 'pry'
 
 def reverse_each_word(string)
-new_string = string.split(" ")
-n = []
-  string.each do |word|
-    new_array << "#{word}".reverse
+new_string = string.split(" ").collect do |word|
+  
+
   end
-new_array.join(" ")
+new_string.join(" ")
 end
