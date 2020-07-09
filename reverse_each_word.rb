@@ -8,4 +8,6 @@ new_array = []
     binding.pry
   end
 new_array
+binding.pry
+" "
 end
