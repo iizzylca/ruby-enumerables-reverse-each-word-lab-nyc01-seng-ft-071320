@@ -7,4 +7,7 @@ new_array = []
     new_array << "#{word}".reverse
   end
 new_array.join(" ")
+binding.pry
+
+" "
 end
