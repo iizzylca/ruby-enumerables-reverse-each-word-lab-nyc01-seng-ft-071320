@@ -6,5 +6,5 @@ new_string = " "
   string.each do |word|
     new_array << "#{word}".reverse
   end
-new_array
+new_string
 end
