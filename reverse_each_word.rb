@@ -7,3 +7,4 @@ string = string.split(" ")
   end
 
 end
+binding.pry
