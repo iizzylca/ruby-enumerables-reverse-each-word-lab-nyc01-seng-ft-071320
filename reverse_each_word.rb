@@ -5,7 +5,7 @@ def reverse_each_word(string)
   new_array = []
     string.reverse.each do |word|
       string.reverse.push(new_array)
-
+      binding.pry
       " "
     end
 
