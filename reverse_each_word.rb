@@ -8,4 +8,3 @@ new_array = []
   end
 new_array.join(" ")
 end
-
