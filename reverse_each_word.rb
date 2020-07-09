@@ -5,5 +5,5 @@ string = string.split(" ")
   string.each do |word|
     string.collect.reverse
   end
-new_array.join(" ")
+string.join(" ")
 end
