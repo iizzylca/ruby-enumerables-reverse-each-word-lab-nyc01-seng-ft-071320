@@ -6,7 +6,6 @@ new_array = []
   string.each do |word|
     new_array << "#{word}".reverse
     binding.pry
-    " "
   end
-
+new_array
 end
